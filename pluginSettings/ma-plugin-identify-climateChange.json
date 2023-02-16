@@ -1,0 +1,16 @@
+
+{
+    "path": "",
+    "roleid": "",
+    "appName": "",
+    "data": {
+      "dataSettings": {
+        "layers": []
+      },
+      "behaviorSettings": {
+        "move": "true",
+        "tolerance": 10,
+        "withVisibleLayers": false
+      }
+    }
+}

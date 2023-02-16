@@ -1,0 +1,33 @@
+{
+  "path": "",
+  "roleid": "",
+  "appName": "",
+  "data": {
+    "dataSettings": {
+      "layers": []
+    },
+    "behaviorSettings": {
+      "showLegend": "true",
+      "legend": {
+        "width": "20",
+        "height": "20",
+        "fontColor": "",
+        "fontSize": "12",
+        "fontStyle": "",
+        "fontAntiAliasing": "true",
+        "labelMargin": "2",
+        "forceLabels": "on",
+        "forceTitles": "on",
+        "countMatched": "false",
+        "hideEmptyRules": "false",
+        "layout": "vertical",
+        "grouplayout": "vertical",
+        "columns": "",
+        "columnheight": "250",
+        "rows": "",
+        "rowwidth": "200",
+        "scaleRoundBy": "1000"
+      }
+    }
+  }
+}

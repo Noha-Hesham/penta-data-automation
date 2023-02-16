@@ -1,0 +1,16 @@
+{
+    "path": "",
+    "roleid": "",
+    "appName": "",
+    "data": {
+      "behaviorSettings": {},
+      "dataSettings": {
+        "GOV_CODES": {
+          "basicSettings": {},
+          "advancedSettings": {},
+          "id": "335474"
+        },
+        "layers": []
+      }
+    }
+}
